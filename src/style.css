@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'OpenSans-Italic';
+	src:	url('./OpenSans-Italic.ttf') format('ttf'),
+			url('./OpenSans-Light.ttf') format('ttf'); 			
+	font-weight: 600;
+	font-style: normal; 
+}
+
+.hello {
+  color: red;
+  font-family: 'OpenSans-Italic';
+  background: url('./icon.png');
+}

@@ -8,6 +8,5 @@
 
 .hello {
   color: red;
-  font-family: 'OpenSans-Italic';
-  background: url('./icon.png');
+  font-family: 'OpenSans-Italic'; 
 }
